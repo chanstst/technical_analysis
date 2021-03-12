@@ -13,7 +13,7 @@ The first step involves downloading relevant financial data (eg stock price, tra
 
 ## Sample of multi-chart display
 
-<img src="images/chart1.jpg" alt="map">
+<img src="images/chart1.png" alt="chart1">
 Figure 1: Sample of stock charts on watch list
 
 
