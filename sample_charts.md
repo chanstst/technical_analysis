@@ -9,6 +9,3 @@
 
 ## Hong Kong Stocks - strongest trends
 <img src="images/chart3.png" alt="chart3">
-
-## Hong Kong Stocks - strong trends
-<img src="images/chart4.png" alt="chart4">
