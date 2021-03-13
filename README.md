@@ -1,4 +1,4 @@
-# Stock scanner and multi-chart display for technical analysts
+# Multi-Chart Display for Technical Stock Analysis
 
 ## Problem Statement
 Every day technical analysts are required to perform two main tasks:
@@ -47,7 +47,11 @@ Figure 4: Screenshot of successful multi-chart display
 
 ## Further development
 Users are advised to apply different trading strategies based on the stock price and volume data, in order shortlist the stocks to be on watch.
+Please refer to "sample_charts.md" for more examples
 
+## References
+- yfinance library - for crawling yahoo finance website and parsing the html into data
+- aastocks.com - for giving the inspiration of stock chart formatting
 
 ## Folder Organization
 
@@ -73,3 +77,6 @@ Users are advised to apply different trading strategies based on the stock price
     |   |__ screenshot_user_input.png
     |   |__ screenshot_download.png
     |   |__ screenshot_multi.png
+	1__ README.md
+	1__ sample_charts.md
+	
