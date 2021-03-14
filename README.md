@@ -14,6 +14,10 @@ This notebook aims to provide a simple tool to resolve this problem.
 
 ## Data Visualization
 
+The most popular chart among technical analysts is candlestick with daily volume.
+
+For initial screening of price/volume trends, it is best to compare all stocks on watch on one page.
+
 ### Sample of Multi-Chart Display
 This tool allows users to glance the stock price .charts of selected stocks on one single page. Below is the sample display of price charts
 
@@ -27,7 +31,7 @@ Figure 1: Sample of stock charts on watch list
 
 #### First Step: User Input
 - key in the stock codes in file "user_input/selected_stocks.csv"
-- note that the stock codes should refer to ![Yahoo Finance](https://finance.yahoo.com)
+- any stock codes supported by ![Yahoo Finance](https://finance.yahoo.com)
 - there is a selected list of stock names for liquid Hong Kong stocks ("data/hk_names.csv")
 
 <img src="images/screenshot_user_input.png" alt="screenshot_user_input">
