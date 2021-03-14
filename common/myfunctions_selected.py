@@ -98,8 +98,16 @@ def charts_list(codes):
 
         ax1 = fig.add_subplot(ceil(n/2),2,(j+1))
 
-        name = df_names.loc[codes[j], "name"]
-        ax1.set_title(code + " " + name, fontproperties=font)
+        name = " "
+        try:
+            name = df_names.loc[codes[j], "name"]
+        except:
+            pass
+
+        if (name == np.NaN):
+            name = " "
+        
+        ax1.set_title(str(code) + " " + str(name), fontproperties=font)
 
         ax1.set_facecolor(color_face)
 

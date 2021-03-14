@@ -27,7 +27,8 @@ Figure 1: Sample of stock charts on watch list
 
 #### First Step: User Input
 - key in the stock codes in file "user_input/selected_stocks.csv"
-- note that only liquid HK stocks are supported
+- note that the stock codes should refer to ![Yahoo Finance](https://finance.yahoo.com)
+- there is a selected list of stock names for liquid Hong Kong stocks ("data/hk_names.csv")
 
 <img src="images/screenshot_user_input.png" alt="screenshot_user_input">
 Figure 2: Screenshot of how to key in selected stocks
@@ -69,6 +70,7 @@ Please refer to "sample_charts.md" for more examples
     |   |__ open.csv
     |   |__ close.csv
     |   |__ volume.csv	
+    |   |__ hk_names.csv	
     |__ images/
     |   |__ chart_sample.png
     |   |__ chart1.png
