@@ -1,5 +1,4 @@
 # Sample charts (illustration only)
-### As of 15 March 2021
 
 ## Hong Kong Stocks - increased trading value
 <img src="images/chart_val_up.png" alt="chart1">
