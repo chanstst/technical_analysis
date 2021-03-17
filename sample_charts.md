@@ -1,4 +1,4 @@
-# Sample charts (illustration only)
+# Sample charts (for illustration only)
 
 ## Hong Kong Stocks - increased trading value
 <img src="images/chart_val_up.png" alt="chart1">
