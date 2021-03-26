@@ -1,4 +1,4 @@
-# Sample charts (for illustration only)
+# Sample charts
 
 [HK Stocks with increased trading value](#HK-stocks-with-increased-trading-value)
 
