@@ -1,13 +1,14 @@
 # Sample charts (for illustration only)
 
 [HK Stocks with increased trading value](#HK-stocks-with-increased-trading-value)
+
 [HK stocks with strongest trends](#HK-stocks-with-strongest-trends)
 
 
-# HK stocks with increased trading value
+## HK stocks with increased trading value
 <img src="images/chart_val_up.png" alt="chart1">
 
-# HK stocks with strongest trends
+## HK stocks with strongest trends
 <img src="images/chart_strongest.png" alt="chart2">
 
 ## Hong Kong Stocks - best performing stocks (5 days)
