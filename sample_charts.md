@@ -9,6 +9,8 @@
 ## Hong Kong Stocks - best performing stocks (5 days)
 <img src="images/chart_best5days.png" alt="chart2">
 
+## Hong Kong Stocks - HSI components
+<img src="images/chart_components.png" alt="chart3">
+
 ## Hong Kong Stocks - watch list
 <img src="images/chart_on_watch.png" alt="chart3">
-
