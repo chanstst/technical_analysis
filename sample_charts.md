@@ -10,6 +10,8 @@
 
 [HK stocks on watch list](#HK-stocks-on-watch-list)
 
+[US stocks hovering around 50MA](#US-stocks-hovering-around-50ma)
+
 ## HK stocks with increased trading value
 <img src="images/chart_val_up.png" alt="chart1">
 
@@ -24,3 +26,6 @@
 
 ## HK stocks on watch list
 <img src="images/chart_on_watch.png" alt="chart3">
+
+## US stocks hovering around 50MA
+<img src="images/us_around50MA.png" alt="chart3">
