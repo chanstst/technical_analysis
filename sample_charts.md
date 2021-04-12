@@ -29,3 +29,6 @@
 
 ## US stocks hovering around 50MA
 <img src="images/us_around50MA.png" alt="chart3">
+
+## US stocks with China concept
+<img src="images/china_concept.png" alt="chart3">
