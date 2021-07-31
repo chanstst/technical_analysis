@@ -1,4 +1,4 @@
-# Multi-Chart Display for Technical Stock Analysis
+# Multi-Chart Display for Technical Stock Analysis (beta)
 
 ## Problem Statement
 Every day technical analysts are required to perform two main tasks:
